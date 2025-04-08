@@ -157,7 +157,7 @@ Pull requests are welcome. If you have suggestions, feel free to [open an issue]
 
 ## 👨‍💻 Author
 
-Made with 🩵 by [Your Name]  
+Made with 🩵 by Kshitij Raj  
 `Cyber Security Student | Innovator | Dreamer`
 
 ---
